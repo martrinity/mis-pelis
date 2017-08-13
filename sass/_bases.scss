@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+	background-color: $fondo;
+}
+
+h1{
+	font-family:$titulos;
+	font-size: 70px;
+	color: $blanco;
+	padding: 120px 40px;
+}
+
+a{
+	color: $blanco;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+p{
+	margin: 10px 0 10px;
+}
+.btn-block {
+    display: inline-block;
+    width: 80%;
+    background-color: $blanco;
+    color: $fondo;
+    border: none;
+
+}
