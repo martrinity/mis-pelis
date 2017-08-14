@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0; }
 
-#index-body {
+body {
   background-color: #C14748; }
 
 h1 {
@@ -25,23 +25,5 @@ p {
   background-color: #fff;
   color: #C14748;
   border: none; }
-
-.navbar-toggle.navbar-left {
-  float: left;
-  margin-left: 10px; }
-
-#container-nav {
-  background-color: #2B2C30; }
-
-.title-section {
-  color: #fff;
-  text-transform: uppercase; }
-
-.btn-sm {
-  padding: 5px 60px;
-  color: #2B2C30; }
-
-#container-form {
-  margin: 150px 10px; }
 
 /*# sourceMappingURL=main.css.map */

@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-body{
+#index-body{
 	background-color: $fondo;
 }
 
@@ -30,4 +30,29 @@ p{
     color: $fondo;
     border: none;
 
+}
+
+.navbar-toggle.navbar-left {
+	float: left;
+	margin-left: 10px;
+	
+}
+
+#container-nav{
+	background-color: $create;
+}
+
+.title-section{
+	color: $blanco;
+	text-transform: uppercase;
+
+}
+
+.btn-sm{
+	padding: 5px 60px;
+	color: $create;
+}
+
+#container-form{
+	margin: 150px 10px;
 }
