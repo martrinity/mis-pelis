@@ -30,8 +30,14 @@ p{
     background-color: $blanco;
     color: $fondo;
     border: none;
+}
+.btn-block a{
+	color: $fondo;
+	font-size: 20px;
+	text-decoration: none;
 
 }
+
 
 // seccion create account
 
@@ -56,7 +62,7 @@ p{
 }
 
 #container-form{
-	margin: 150px 10px;
+	margin: 100px 10px;
 }
 
 .form-group{
@@ -66,7 +72,11 @@ p{
 .fav-btn{
 	float: right;
 	margin-right: 10px;
-
+}
+#btn-create{
+	background-color: $create;
+	color: $blanco;
+	margin-top: 20px;
 }
 
 .actor{

@@ -27,6 +27,11 @@ p {
   color: #C14748;
   border: none; }
 
+.btn-block a {
+  color: #C14748;
+  font-size: 20px;
+  text-decoration: none; }
+
 .navbar-toggle.navbar-left {
   float: left;
   margin-left: 10px; }
@@ -43,7 +48,7 @@ p {
   color: #2B2C30; }
 
 #container-form {
-  margin: 150px 10px; }
+  margin: 100px 10px; }
 
 .form-group {
   margin: 100px 15px 0px 15px; }
@@ -51,6 +56,11 @@ p {
 .fav-btn {
   float: right;
   margin-right: 10px; }
+
+#btn-create {
+  background-color: #2B2C30;
+  color: #fff;
+  margin-top: 20px; }
 
 .actor {
   color: #C14748;
