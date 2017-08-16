@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  border-radius: none;
 }
 
 #index-body{
@@ -32,6 +33,8 @@ p{
 
 }
 
+// seccion create account
+
 .navbar-toggle.navbar-left {
 	float: left;
 	margin-left: 10px;
@@ -55,4 +58,21 @@ p{
 
 #container-form{
 	margin: 150px 10px;
+}
+
+.form-group{
+	margin: 100px 15px 0px 15px;
+}
+
+.fav-btn{
+	float: right;
+	margin-right: 10px;
+
+}
+
+.actor{
+	display: inline-block;
+	color:$fondo;
+	text-decoration: none;
+	font-size: 12px;
 }

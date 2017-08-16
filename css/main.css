@@ -1,6 +1,7 @@
 * {
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  border-radius: none; }
 
 #index-body {
   background-color: #C14748; }
@@ -43,5 +44,18 @@ p {
 
 #container-form {
   margin: 150px 10px; }
+
+.form-group {
+  margin: 100px 15px 0px 15px; }
+
+.fav-btn {
+  float: right;
+  margin-right: 10px; }
+
+.actor {
+  display: inline-block;
+  color: #C14748;
+  text-decoration: none;
+  font-size: 12px; }
 
 /*# sourceMappingURL=main.css.map */
